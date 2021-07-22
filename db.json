@@ -7,10 +7,16 @@
       "reminder": true
     },
     {
-      "text": "penis",
-      "day": "i9iu",
+      "text": "gucci",
+      "day": "gang",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "greg",
+      "day": "grege",
       "reminder": false,
-      "id": 5
+      "id": 7
     }
   ]
 }
